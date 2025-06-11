@@ -13,6 +13,8 @@ Este repositorio contiene pruebas básicas de API realizadas con Postman usando 
 - **Resultado esperado:** Código 200 OK
 - ✅ Se obtuvo correctamente el listado de usuarios
 
+📸 Captura de pantalla:
+![GET](./prueba get.png)
 ---
 ### ✅ 2. Prueba POST - Crear nuevo usuario
 - **Endpoint:** `https://reqres.in/api/users`
@@ -22,3 +24,5 @@ Este repositorio contiene pruebas básicas de API realizadas con Postman usando 
   "name": "Jose",
   "job": "QA Tester"
 }
+📸 Captura de pantalla:
+![GET](./prueba post.png)
