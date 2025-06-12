@@ -19,17 +19,19 @@ Este repositorio contiene pruebas básicas de API realizadas con Postman usando 
 
 📸 Captura de pantalla:
 ![GET](./prueba_get.png)
-![GET](./prueba_post.png)
+
 ---
 
 ### ✅ 2. Prueba POST – Crear nuevo usuario
 - **Endpoint:** `https://reqres.in/api/users`
 - **Método:** `POST`
 - **Body enviado (JSON):**
+
+📸 Captura de pantalla:
+![POST](./prueba_post.png)
+
 ```json
 {
   "name": "Jose",
   "job": "QA Tester"
 }
-📸 Captura de pantalla:
-![GET](./prueba_post.png)
