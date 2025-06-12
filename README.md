@@ -31,3 +31,5 @@ Este repositorio contiene pruebas básicas de API realizadas con Postman usando 
   "name": "Jose",
   "job": "QA Tester"
 }
+📸 Captura de pantalla:
+![GET](./prueba_post.png)
