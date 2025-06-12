@@ -1,6 +1,9 @@
 # Pruebas de API con Postman - Jose Vizcarra
 
 Este repositorio contiene pruebas básicas de API realizadas con Postman usando el sitio público [reqres.in](https://reqres.in).
+Este es un pequeño proyecto personal para demostrar mis habilidades como QA Tester Manual, utilizando Postman para hacer pruebas de APIs públicas, y GitHub para documentar el proceso.
+
+[📎 Ver mi CV en PDF](./CV_Jose_Alfredo_QA_Junior.pdf)
 
 ---
 
